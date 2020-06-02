@@ -1,7 +1,7 @@
 {
   "name": "git-test",
   "version": "1.0.0",
-  "description": "\"this is the Git and node basic learning project\"",
+  "description": "\"this is a test directory for node and git\"",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/ChetanBhargav/git-test.git"
   },
-  "author": "",
+  "author": "ChetanBhargav",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ChetanBhargav/git-test/issues"
